@@ -1,0 +1,3 @@
+/home/pi/Documents/cse-1205-lab-1-master/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/cse-1205-lab-1-master/CMakeFiles/1205_Hello_World.dir
+/home/pi/Documents/cse-1205-lab-1-master/CMakeFiles/edit_cache.dir
